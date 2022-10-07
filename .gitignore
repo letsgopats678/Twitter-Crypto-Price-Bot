@@ -1,0 +1,9 @@
+MONGO_PWD = "StanleyCupChamps2009"
+
+STRING_CONNECTION = "mongodb+srv://letsgopens0032:StanleyCupChamps2009@joesdb.wbl5hao.mongodb.net/?retryWrites=true&w=majority"
+
+
+CONSUMER_KEY = "XcbNJgQyzVFcXHxZM3bfK96vL"
+CONSUMER_SECRET = "WSAiY0EOZRCXVmKikAo3fBhNCGa1qr1zrxIrsHc0bYKArZljql"
+ACCESS_TOKEN = "1578207506513494017-toyA6pWCX3TOEUuUC7BlbqSW1l0XFR"
+ACCESS_TOKEN_SECRET = "YxLNXG7TJDOxktWVeJaxpr3GWzCr4ypgsBKvLYnmlSTlX"
